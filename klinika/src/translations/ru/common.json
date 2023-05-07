@@ -1,0 +1,44 @@
+{
+  "common": {
+    "generate": "Генерировать",
+    "save": "Сохранить",
+    "download": "Скачать",
+    "cancel": "Отмена",
+    "close": "Закрыть",
+    "delete": "Удалить",
+    "generate_report": "Сгенерировать отчёт",
+    "deposits": "Депозиты",
+    "treasury": "Казначейство",
+    "cash": "Касса",
+    "report": "Отчёт",
+    "report_generated_successfully": "Отчёт успешно сгенерирован",
+    "start_date": "Дата начала",
+    "end_date": "Дата окончания",
+    "date": "Дата",
+    "report_downloaded_successfully": "Отчёт успешно скачан",
+    "status": "Статус",
+    "name": "Название",
+    "download_report": "Скачать отчёт",
+    "pending": "В ожидании",
+    "error": "Ошибка",
+    "ready": "Готов",
+    "reports": "Отчёты",
+    "per_page": "Показовать по:",
+    "list_is_empty": "Список пуст",
+    "new_logic": "Новая логика",
+    "region": "Регион"
+  },
+  "deposits": {
+    "ap_one": "Отчёт АП1"
+  },
+  "treasury": {
+    "foreign-currency-sales-to-organizations": "Отчет о продаже иностранной валюты для юридических лиц",
+    "purchase_and_sell_foreign_currencies": "Отчёт купли-продажи {{time}}",
+    "currency_position": "Валютная позиция"
+  },
+  "cash": {
+    "cash_balance": "Остаток денежных средств",
+    "foreign_currency_cash_balance": "Остаток денежных средств в иностранной валюте",
+    "khujand_cash_flow_table": "Таблица денежных потоков в г. Худжанд"
+  }
+}

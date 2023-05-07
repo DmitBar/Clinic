@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "LNDYmnJUPhJEqBYKS6rBJekir4g/y+xoptuWCB4BVKE=",
+  "Source": "VetСlinicApi",
+  "BasePath": "_content/VetСlinicApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VetСlinicApi\\wwwroot",
+      "Source": "VetСlinicApi",
+      "ContentRoot": "C:\\Users\\fkdlous\\Desktop\\VetСlinicApi\\VetСlinicApi\\wwwroot\\",
+      "BasePath": "_content/VetСlinicApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

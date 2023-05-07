@@ -1,0 +1,46 @@
+{
+  "common": {
+    "generate": "Generate",
+    "save": "Save",
+    "download": "Download",
+    "cancel": "Cancel",
+    "close": "Close",
+    "delete": "Delete",
+    "generate_report": "Generate Report",
+    "deposits": "Deposits",
+    "treasury": "Treasury",
+    "cash": "Cash",
+    "report": "Report",
+    "report_generated_successfully": "Report generated successfully",
+    "start-date": "Start Date",
+    "end-date": "End Date",
+    "date": "Date",
+    "report_downloaded_successfully": "Report downloaded successfully",
+    "date_from": "Date From",
+    "date_to": "Date To",
+    "status": "Status",
+    "name": "Name",
+    "download_report": "Download Report",
+    "pending": "Pending",
+    "error": "Error",
+    "ready": "Ready",
+    "reports": "Reports",
+    "per_page": "Per Page",
+    "list_is_empty": "List is empty",
+    "new_logic": "New Logic",
+    "region": "Region"
+  },
+  "deposits": {
+    "ap_one": "AP One Report"
+  },
+  "treasury": {
+    "foreign-currency-sales-to-organizations": "Foreign currency sales report for organizations",
+    "purchase_and_sell_foreign_currencies": "Purchase and sell foreign currencies {{time}}",
+    "currency_position": "Currency position"
+  },
+  "cash": {
+    "cash_balance": "Cash Balance",
+    "foreign_currency_cash_balance": "Foreign Currency Cash Balance",
+    "khujand_cash_flow_table": "Khujand Cash Flow Table"
+  }
+}
